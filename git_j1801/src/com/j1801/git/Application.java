@@ -7,6 +7,7 @@ public class Application {
 		System.out.println("lisi2");
 		System.out.println("zhangsan2");
 		System.out.println("王3");
+		System.out.print("王二");
 	}
 
 }
